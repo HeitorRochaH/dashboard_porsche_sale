@@ -1,1 +1,1 @@
-Criei uma dashboard de uma planilha de vendas de modelos da Porsche com filtros, gráficos a insights automáticos utilizando Claude para o projeto da DIO: Aceleração: AI Reports com Excel, GPT Agents e Claude Code
+Criei uma dashboard em HTML de uma planilha de vendas de modelos da Porsche com filtros, gráficos a insights automáticos utilizando Claude para o projeto da DIO: Aceleração: AI Reports com Excel, GPT Agents e Claude Code
